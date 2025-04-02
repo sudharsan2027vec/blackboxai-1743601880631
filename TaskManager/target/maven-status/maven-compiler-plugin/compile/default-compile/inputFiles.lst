@@ -1,2 +1,6 @@
-/home/user/task-manager/src/main/java/com/example/demo/HomeController.java
-/home/user/task-manager/src/main/java/com/example/demo/DemoApplication.java
+/project/sandbox/user-workspace/TaskManager/src/main/java/com/example/demo/service/UserService.java
+/project/sandbox/user-workspace/TaskManager/src/main/java/com/example/demo/model/User.java
+/project/sandbox/user-workspace/TaskManager/src/main/java/com/example/demo/DemoApplication.java
+/project/sandbox/user-workspace/TaskManager/src/main/java/com/example/demo/SignupPage.java
+/project/sandbox/user-workspace/TaskManager/src/main/java/com/example/demo/repository/UserRepository.java
+/project/sandbox/user-workspace/TaskManager/src/main/java/com/example/demo/SigninPage.java
