@@ -1,2 +1,6 @@
+com/example/demo/repository/UserRepository.class
+com/example/demo/SignupPage.class
+com/example/demo/SigninPage.class
 com/example/demo/DemoApplication.class
-com/example/demo/DemoApplication$HelloworldController.class
+com/example/demo/model/User.class
+com/example/demo/service/UserService.class
